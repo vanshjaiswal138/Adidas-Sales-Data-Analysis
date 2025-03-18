@@ -31,6 +31,6 @@ This project involves an in-depth analysis of Adidas sales data to uncover key i
 
 -> Clone this repository to your local machine.
 
--> Open the Adidas-Sales-Analysis.pbix file in Power BI Desktop.
+-> Open the Electronics-Sales-Analysis.pbix file in Power BI Desktop.
 
--> Explore the dashboards to gain insights into Adidas' sales data.
+-> Explore the dashboards to gain insights into Electronics sales data.
