@@ -2,7 +2,8 @@
 
 This project involves an in-depth analysis of Adidas sales data to uncover key insights and trends that can drive business decision-making. The analysis focuses on evaluating sales performance across various dimensions, such as product categories, regions, and time periods, using advanced data visualization and analytical techniques.
 
-![image](https://github.com/user-attachments/assets/a5af6bbc-3bab-4c2d-86b4-1aa1efd3fc0e)
+![image](https://github.com/user-attachments/assets/99051b69-7ac4-41b2-b5d6-cfbc08a452e6)
+
 
 **Key Features:**
 
