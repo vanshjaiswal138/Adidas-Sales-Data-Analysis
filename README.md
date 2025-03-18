@@ -1,4 +1,4 @@
-# Adidas-Sales-Data-Analysis
+# Electronics-Sales-Data-Analysis
 
 This project involves an in-depth analysis of Adidas sales data to uncover key insights and trends that can drive business decision-making. The analysis focuses on evaluating sales performance across various dimensions, such as product categories, regions, and time periods, using advanced data visualization and analytical techniques.
 
