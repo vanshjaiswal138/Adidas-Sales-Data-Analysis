@@ -1,0 +1,101 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit
+MegaStore,R9813,27/03/2024,North,New York,Las Vegas,Laptop,1922.19,76,146086.44,12294.15
+QuickBuy,R4418,5/06/2024,East,New York,Denver,Smartwatch,689.67,143,98622.81,16491.7
+MegaStore,R8161,20/08/2024,North,Texas,Nashville,Tablet,1192.17,43,51263.31,7023.91
+ValueShop,R8186,19/02/2025,East,California,Nashville,Smartphone,1184.08,6,7104.48,1994.26
+MegaStore,R9823,3/07/2024,South,Texas,Portland,Smartwatch,918.08,40,36723.2,10194.8
+SuperMart,R4253,21/07/2024,South,Illinois,Charlotte,Smartphone,356.9,41,14632.9,4477.83
+RetailCorp,R8178,10/09/2024,West,Florida,San Diego,Headphones,1776.46,13,23093.98,2583.3
+QuickBuy,R5166,11/02/2025,West,California,Orlando,Headphones,293.1,45,13189.5,2771.29
+ValueShop,R2862,24/07/2024,West,Texas,Detroit,Headphones,845.63,51,43127.13,3206.1
+MegaStore,R8218,10/05/2024,West,Illinois,Indianapolis,Tablet,1917.44,35,67110.4,11367.76
+ValueShop,R6325,7/04/2024,East,New York,Indianapolis,Smartphone,522.79,124,64825.96,10628.67
+QuickBuy,R5721,10/03/2024,West,New York,Seattle,Smartwatch,1004.52,106,106479.12,9599.35
+QuickBuy,R2274,22/04/2024,East,Florida,San Diego,Smartwatch,602.51,93,56033.43,8499.36
+ValueShop,R2649,19/10/2024,North,Illinois,Seattle,Headphones,1095.69,7,7669.83,1614.25
+RetailCorp,R7779,30/01/2025,East,California,Philadelphia,Laptop,660.42,68,44908.56,14018.29
+RetailCorp,R2419,1/06/2024,South,Texas,Indianapolis,Headphones,428.95,102,43752.9,8806.61
+SuperMart,R2440,12/05/2024,North,New York,Dallas,Smartphone,830.18,80,66414.4,21433.19
+MegaStore,R7265,9/10/2024,North,California,Charlotte,Headphones,177.18,54,9567.72,2961.66
+ValueShop,R3389,10/12/2024,South,Florida,Philadelphia,Smartphone,885.79,19,16830.01,3483.25
+ValueShop,R5264,1/08/2024,East,Texas,Las Vegas,Laptop,190.05,147,27937.35,2881.14
+RetailCorp,R7663,21/10/2024,West,California,Boston,Headphones,165.65,113,18718.45,1409.22
+SuperMart,R7471,21/01/2025,West,Texas,Indianapolis,Tablet,524.07,113,59219.91,4264.97
+ValueShop,R2718,7/09/2024,East,Texas,Orlando,Smartwatch,771.82,133,102652.06,33064.48
+RetailCorp,R1640,6/12/2024,South,New York,San Diego,Headphones,1199.92,100,119992,38733.95
+QuickBuy,R8733,8/11/2024,East,Texas,Minneapolis,Laptop,1559.28,126,196469.28,19771.1
+MegaStore,R6006,21/09/2024,East,California,San Diego,Laptop,1429.31,75,107198.25,9555.04
+QuickBuy,R9687,8/04/2024,West,Florida,Austin,Smartwatch,1636.61,144,235671.84,63709.1
+RetailCorp,R6799,18/11/2024,South,Texas,Seattle,Tablet,287.47,147,42258.09,2574.51
+MegaStore,R6641,29/04/2024,North,Florida,Orlando,Smartphone,981.13,117,114792.21,29060.51
+RetailCorp,R9290,8/11/2024,South,Illinois,Denver,Smartphone,1231.66,66,81289.56,23457.39
+QuickBuy,R5960,9/11/2024,South,California,Las Vegas,Smartwatch,1924.91,53,102020.23,25290.68
+MegaStore,R7962,29/08/2024,South,California,Seattle,Headphones,608.8,141,85840.8,4667.17
+SuperMart,R7381,19/11/2024,North,Texas,Phoenix,Smartphone,593.74,2,1187.48,107.8
+SuperMart,R8264,9/01/2025,South,Florida,Las Vegas,Laptop,362.34,55,19928.7,3722.27
+ValueShop,R7196,17/05/2024,North,California,Minneapolis,Smartwatch,1546.68,106,163948.08,25903.87
+RetailCorp,R4665,25/09/2024,South,Florida,Portland,Smartwatch,1154.67,59,68125.53,17043.05
+QuickBuy,R5968,20/12/2024,West,California,Nashville,Headphones,365.34,101,36899.34,9721.79
+QuickBuy,R3719,24/06/2024,North,California,Detroit,Laptop,1121.66,26,29163.16,3100.29
+ValueShop,R1238,5/12/2024,East,New York,San Diego,Smartwatch,1405.92,8,11247.36,3580.06
+RetailCorp,R9208,26/08/2024,South,California,Portland,Laptop,666.01,18,11988.18,835.16
+RetailCorp,R7568,11/04/2024,South,New York,Dallas,Smartphone,1158.17,109,126240.53,7503.86
+MegaStore,R4981,2/12/2024,South,Texas,Orlando,Laptop,1750.24,68,119016.32,8162.44
+MegaStore,R8395,23/04/2024,North,New York,Las Vegas,Tablet,768.96,134,103040.64,34900.71
+ValueShop,R1267,7/01/2025,North,New York,Nashville,Smartwatch,996.39,8,7971.12,1889.11
+SuperMart,R2965,25/10/2024,East,California,Dallas,Smartwatch,674.72,64,43182.08,6366.28
+ValueShop,R4535,22/08/2024,North,California,Philadelphia,Smartwatch,1848.97,52,96146.44,32021.99
+SuperMart,R4134,2/05/2024,West,New York,Philadelphia,Smartwatch,1747.82,39,68164.98,6587.13
+ValueShop,R4860,24/07/2024,West,Texas,Phoenix,Tablet,1341.05,80,107284,26939.07
+MegaStore,R2139,14/12/2024,East,Florida,Phoenix,Smartwatch,1008.13,105,105853.65,8417.87
+RetailCorp,R2842,8/12/2024,North,Texas,Denver,Headphones,943.26,65,61311.9,9781.93
+SuperMart,R6169,25/01/2025,East,California,Phoenix,Laptop,864.68,1,864.68,109.44
+ValueShop,R3987,25/05/2024,North,Texas,San Diego,Smartphone,98.75,39,3851.25,831.43
+SuperMart,R2115,11/03/2024,South,California,Indianapolis,Laptop,276.86,82,22702.52,7480.74
+QuickBuy,R7182,30/06/2024,South,New York,Minneapolis,Headphones,1112.64,130,144643.2,10718.94
+QuickBuy,R5535,30/09/2024,South,Texas,Charlotte,Smartphone,1239.95,99,122755.05,14091.18
+QuickBuy,R7488,4/12/2024,South,Illinois,Atlanta,Headphones,1685.89,10,16858.9,3509.67
+RetailCorp,R6701,24/08/2024,South,New York,Nashville,Tablet,104.82,9,943.38,167.88
+ValueShop,R5628,25/02/2025,West,California,Phoenix,Headphones,1218.04,124,151036.96,20661.68
+ValueShop,R3219,27/04/2024,North,Illinois,Dallas,Headphones,162.38,138,22408.44,6850.31
+RetailCorp,R5972,7/07/2024,East,New York,Phoenix,Smartwatch,1341.36,43,57678.48,16401.75
+SuperMart,R5048,21/11/2024,South,Florida,Seattle,Smartwatch,1382.93,3,4148.79,527.31
+RetailCorp,R5133,16/01/2025,East,Illinois,San Diego,Headphones,581.71,131,76204.01,12812.62
+MegaStore,R5499,6/06/2024,East,Illinois,Orlando,Laptop,1581.21,58,91710.18,5548.02
+ValueShop,R7236,12/06/2024,South,Illinois,Boston,Tablet,139.48,50,6974,546.06
+RetailCorp,R2127,26/06/2024,East,New York,Nashville,Tablet,105.43,97,10226.71,569.89
+MegaStore,R3121,10/03/2024,East,Illinois,Atlanta,Headphones,1538.32,44,67686.08,15075.37
+SuperMart,R8381,6/05/2024,East,Illinois,Nashville,Tablet,1846.51,131,241892.81,68802.36
+MegaStore,R4769,3/11/2024,West,Florida,Las Vegas,Smartwatch,1800.86,31,55826.66,13902.49
+RetailCorp,R2736,7/05/2024,South,Texas,Austin,Smartphone,1287.89,143,184168.27,30033.23
+QuickBuy,R8658,1/04/2024,East,California,Orlando,Headphones,1334.63,52,69400.76,4256.13
+QuickBuy,R4550,25/07/2024,West,New York,Austin,Smartphone,1904.96,121,230500.16,30081.05
+QuickBuy,R3380,5/07/2024,North,Illinois,Philadelphia,Smartphone,426.7,73,31149.1,2486.28
+QuickBuy,R1994,2/09/2024,East,New York,Boston,Smartphone,1546.35,97,149995.95,20657.04
+MegaStore,R7187,28/11/2024,North,Florida,Philadelphia,Tablet,1352.88,106,143405.28,18821.57
+QuickBuy,R3143,23/03/2024,South,Illinois,Orlando,Laptop,956.68,2,1913.36,199.13
+MegaStore,R8643,10/12/2024,West,New York,Seattle,Laptop,185.21,137,25373.77,6239.11
+RetailCorp,R1307,24/12/2024,North,California,Nashville,Tablet,184.35,38,7005.3,2137.26
+SuperMart,R4252,3/10/2024,West,California,Detroit,Smartphone,69.18,7,484.26,82.81
+ValueShop,R6319,3/08/2024,South,Florida,Atlanta,Headphones,1156.71,37,42798.27,11244.38
+MegaStore,R3891,12/09/2024,South,Illinois,Denver,Smartwatch,619.25,86,53255.5,15518.83
+ValueShop,R4408,6/10/2024,South,Texas,Charlotte,Smartphone,787.92,92,72488.64,5665.16
+SuperMart,R9212,4/04/2024,West,Texas,Orlando,Smartphone,1723.72,138,237873.36,51555.32
+RetailCorp,R6898,11/05/2024,South,Illinois,Austin,Smartwatch,1532.68,57,87362.76,30093.24
+ValueShop,R6857,6/05/2024,North,Texas,Seattle,Headphones,443.66,24,10647.84,2338.48
+RetailCorp,R7897,29/11/2024,North,Florida,Minneapolis,Smartphone,83.61,118,9865.98,1743.52
+MegaStore,R3444,28/12/2024,South,Illinois,Seattle,Smartwatch,944.39,66,62329.74,21302.89
+SuperMart,R5583,9/01/2025,South,New York,Indianapolis,Tablet,1588.21,113,179467.73,37433.42
+ValueShop,R5730,25/09/2024,West,Illinois,Austin,Tablet,1116.32,10,11163.2,1981.31
+QuickBuy,R6929,1/01/2025,South,Texas,Atlanta,Laptop,1255.76,149,187108.24,13310.31
+RetailCorp,R7561,21/01/2025,West,Illinois,Indianapolis,Smartphone,626.31,93,58246.83,9278.33
+MegaStore,R9687,12/01/2025,West,Illinois,Dallas,Smartwatch,317.53,102,32388.06,8310.5
+SuperMart,R5133,11/04/2024,South,California,Detroit,Tablet,1781.94,3,5345.82,461.24
+SuperMart,R7846,26/01/2025,South,New York,San Francisco,Tablet,902.75,4,3611,279.41
+ValueShop,R3783,24/04/2024,North,New York,Austin,Headphones,1206.62,57,68777.34,22927.54
+MegaStore,R7788,21/08/2024,North,New York,Las Vegas,Smartwatch,335.44,39,13082.16,2734.81
+ValueShop,R7351,16/07/2024,West,Florida,Denver,Smartphone,791.12,82,64871.84,13772.85
+QuickBuy,R3499,27/12/2024,East,New York,Las Vegas,Smartwatch,453.78,22,9983.16,3015.12
+SuperMart,R2020,27/05/2024,North,California,Charlotte,Tablet,288.38,137,39508.06,9944.53
+RetailCorp,R6399,9/09/2024,East,Florida,Orlando,Tablet,669.46,122,81674.12,26029.19
+QuickBuy,R9389,30/04/2024,East,California,Austin,Smartwatch,475.13,87,41336.31,7001.47
